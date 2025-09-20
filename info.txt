@@ -1,0 +1,3 @@
+poly_model_max.joblib is the dumped file of the model itself
+poly_feature_max.joblib is the dumped file of the featuring on 'X_test' before fitting
+preprocessor.joblib is the encoding dumped file before the train_test_split
