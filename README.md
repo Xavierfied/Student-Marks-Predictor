@@ -1,2 +1,2 @@
 # Student-Marks-Predictor
-A project showing how a multi-feature Polynomial Regression model (R² ≈ 0.70) significantly outperforms simple models for predicting student scores.
+This project predicts student exam scores using machine learning. It demonstrates the limitations of using a single feature, where both Linear and Polynomial models performed poorly (R² ≈ 0.21), By incorporating all available features, the Polynomial Regression model's performance was boosted significantly to an R-squared score of approximately 0.70, highlighting the critical impact of feature engineering on model accuracy.
